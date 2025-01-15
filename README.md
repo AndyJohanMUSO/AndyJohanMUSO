@@ -1,7 +1,7 @@
 # Hola ,Soy Andy Muñico 👋
 > **DESARROLLADOR JUNIOR DE JAVA**
 
-Mi nombre es Andy Muñico, actualmente estoy en el 9mo ciclo de la carrera de Ciencia de la Computación en la Universidad Peruana de Ciencias Aplicadas. Me dirijo a ustedes para expresar mi interés en formar parte de su equipo como desarrollador junior en el área de desarrollo Java.
+Mi nombre es Andy Muñico, actualmente estoy en el 9mo ciclo de la carrera de Ciencia de la Computación en la Universidad Peruana de Ciencias Aplicadas. Estoy en busqueda de trabajo como desarrollador junior en el área de desarrollo Java.
 Aunque no cuento con experiencia laboral formal, he adquirido sólidos conocimientos en Java a través de mis estudios y proyectos académicos. He trabajado con conceptos clave como programación orientada a objetos, manejo de bases de datos relacionales (MySQL y PostgreSQL), y frameworks como Spring Boot.
 
 ## Tecnologías:
